@@ -10,7 +10,6 @@
 - [Results/Findings](#resultsfindings)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
-- [References](#references)
 
 ---
 
@@ -202,15 +201,3 @@ Key methods included:
 - The email analysis had stronger experimental logic, but some baseline variables, such as past donations, were not fully balanced across all groups.
 - Donation behavior may have been influenced by factors not included in the dataset, such as campaign timing, donor motivation, or external events.
 - The analysis was conducted in an academic setting and may not fully reflect a live marketing campaign environment.
-
----
-
-## References
-
-1. Online Advertising Effectiveness Assignment, University of Groningen.
-2. Campaign data for paid search ads and email communication analysis.
-3. SentimentR R package documentation.
-4. Syuzhet R package documentation.
-5. NRC, Bing, and AFINN sentiment lexicons.
-6. LDA topic modelling documentation.
-7. MatchIt R package documentation.
